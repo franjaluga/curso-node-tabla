@@ -1,0 +1,17 @@
+{
+  "name": "04-bases-de-node",
+  "version": "1.0.1",
+  "description": "es una simple tabla de multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app2 --base=3"
+  },
+  "author": "Francisco",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^1.0.0",
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  }
+}
